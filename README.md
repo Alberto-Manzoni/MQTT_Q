@@ -11,3 +11,6 @@ The current version of MQTT_Q does NOT support:
 * Retain Flag
 * Unsubscribe Function
 * Ping Function
+
+# Usage
+Start your favourite broker (code tested with Eclipse Mosquitto) and run the examples.
